@@ -1,0 +1,15 @@
+/Users/isaquespx/development/CursoCSharp/bin/Debug/net6.0/CursoCSharp
+/Users/isaquespx/development/CursoCSharp/bin/Debug/net6.0/CursoCSharp.deps.json
+/Users/isaquespx/development/CursoCSharp/bin/Debug/net6.0/CursoCSharp.runtimeconfig.json
+/Users/isaquespx/development/CursoCSharp/bin/Debug/net6.0/CursoCSharp.dll
+/Users/isaquespx/development/CursoCSharp/bin/Debug/net6.0/ref/CursoCSharp.dll
+/Users/isaquespx/development/CursoCSharp/bin/Debug/net6.0/CursoCSharp.pdb
+/Users/isaquespx/development/CursoCSharp/obj/Debug/net6.0/CursoCSharp.csproj.AssemblyReference.cache
+/Users/isaquespx/development/CursoCSharp/obj/Debug/net6.0/CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaquespx/development/CursoCSharp/obj/Debug/net6.0/CursoCSharp.AssemblyInfoInputs.cache
+/Users/isaquespx/development/CursoCSharp/obj/Debug/net6.0/CursoCSharp.AssemblyInfo.cs
+/Users/isaquespx/development/CursoCSharp/obj/Debug/net6.0/CursoCSharp.csproj.CoreCompileInputs.cache
+/Users/isaquespx/development/CursoCSharp/obj/Debug/net6.0/CursoCSharp.dll
+/Users/isaquespx/development/CursoCSharp/obj/Debug/net6.0/ref/CursoCSharp.dll
+/Users/isaquespx/development/CursoCSharp/obj/Debug/net6.0/CursoCSharp.pdb
+/Users/isaquespx/development/CursoCSharp/obj/Debug/net6.0/CursoCSharp.genruntimeconfig.cache
