@@ -1,7 +1,7 @@
 ﻿using System;
-class Execution
+class HelloWord
 {
-    static void Main()
+    public static void Executar()
     {
         Console.WriteLine("Hello Word");
     }
