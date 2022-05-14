@@ -1,4 +1,5 @@
 using CursoCSharp.fundamentos;
+using CursoCSharp.Fundamentos;
 
 namespace CursoCSharp
 {
@@ -12,6 +13,9 @@ namespace CursoCSharp
                 },
                   {
                     1 , VariaveisEConstates.Executar
+                },
+                 {
+                    2 , Inferencia.Executar
                 }
             };
             var central = new Central(dictionary);
