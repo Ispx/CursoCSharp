@@ -1,9 +1,9 @@
 namespace CursoCSharp
 {
-    public class Central
+    public class CentralExercicios
     {
         Dictionary<int, Action> Exercicios;
-        public Central(Dictionary<int, Action> Exercicios)
+        public CentralExercicios(Dictionary<int, Action> Exercicios)
         {
             this.Exercicios = Exercicios;
         }
@@ -21,13 +21,6 @@ namespace CursoCSharp
                 Console.WriteLine(e);
             }
 
-
-
-
         }
-
-
-
-
     }
 }
