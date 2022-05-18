@@ -28,9 +28,21 @@ namespace CursoCSharp
                 {
                     5 , FormatandoNumeros.Executar
                 }
+                ,
+                {
+                    6 , Conversoes.Executar
+                }
+                ,
+                {
+                    7 , OperadoresAritimeticos.Executar
+                }
+                 ,
+                {
+                    8 , OperadoresRelacionais.Executar
+                }
             };
             var central = new CentralExercicios(dictionary);
-            central.SelecionarExecutar(5);
+            central.SelecionarExecutar(8);
         }
     }
 }
