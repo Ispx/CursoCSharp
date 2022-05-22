@@ -1,4 +1,4 @@
-namespace CursoCSharp.fundamentos
+namespace CursoCSharp.Fundamentos
 {
     public class VariaveisEConstates
     {

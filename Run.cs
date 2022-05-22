@@ -1,5 +1,5 @@
-using CursoCSharp.fundamentos;
 using CursoCSharp.Fundamentos;
+using CursoCSharp.EstruturaDeControlle;
 
 namespace CursoCSharp
 {
@@ -39,6 +39,14 @@ namespace CursoCSharp
                  ,
                 {
                     8 , OperadoresRelacionais.Executar
+                }
+                ,
+                {
+                    9 , OperadoresLogicos.Executar
+                }
+                  ,
+                {
+                    10 , EstruturaIf.Executar
                 }
             };
             var central = new CentralExercicios(dictionary);
