@@ -1,6 +1,9 @@
 namespace CursoCSharp.EstruturaDeControlle;
-public class EstruturaIf
+
+
+public class EstrururaIfElse
 {
+
     public static void Executar()
     {
 
@@ -8,6 +11,11 @@ public class EstruturaIf
         {
             //...
         }
+        else
+        {
+            //
+        }
 
     }
+
 }
